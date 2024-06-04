@@ -1,0 +1,9 @@
+.vscode
+.idea
+out/
+build/
+dist/
+llama2_py.egg-info/
+data/
+wandb/
+__pycache__
